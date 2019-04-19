@@ -19,3 +19,7 @@
 * **e企学.cn** - [https://www.easyxue.cn](https://www.easyxue.cn)
 
 > 这是一个企业内训与职业成长的移动云学习平台.
+
+### 与我联系
+
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=n-Lm-Ozw_evf7u6x-PDy" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_12.png"/></a>
